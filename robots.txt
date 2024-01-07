@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://mposlot77.mouplands.org/sitemap.xml
+Sitemap : http://dewa138.gov.lightinject.net/sitemap.xml
